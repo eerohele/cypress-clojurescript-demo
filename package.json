@@ -1,0 +1,9 @@
+{
+  "name": "cypress-clojurescript-demo",
+  "license" : "EPL-1.0",
+  "devDependencies": {
+    "@cypress/watch-preprocessor": "^1.0.0",
+    "chokidar": "^2.0.2",
+    "cypress": "^2.1.0"
+  }
+}
